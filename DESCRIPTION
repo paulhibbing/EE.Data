@@ -1,0 +1,13 @@
+Package: EE.Data
+Type: Package
+Title: Objects for predicting energy expenditure
+Version: 0.1.0
+Authors@R: person(
+    c("Paul", "R."), "Hibbing", email = "paulhibbing@gmail.com",
+    role = c("aut","cre"))
+Description: Contains modeling objects that are useful for predicting
+    energy expenditure from wearable sensor data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
