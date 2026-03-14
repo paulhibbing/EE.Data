@@ -20,6 +20,6 @@ montoye_rw
 Neural networks for energy expenditure prediction
 }
 \references{
-\href{https://www.tandfonline.com/doi/abs/10.1080/1091367X.2017.1337638?journalCode=hmpe20}{Montoye et al. (2017)}
+\doi{10.1080/1091367X.2017.1337638}
 }
 \keyword{datasets}

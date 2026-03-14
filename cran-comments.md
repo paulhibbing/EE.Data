@@ -18,11 +18,18 @@ required for prediction of energy expenditure in research studies.
 
 0 errors | 0 warnings | 2 notes
 
-* This is a new release.
+
+* checking CRAN incoming feasibility ... NOTE
+Maintainer: 'Paul R. Hibbing <paulhibbing@gmail.com>'
+
+New submission
+
+  [This is a new submission.]
+
 
 * checking installed package size ... NOTE
     installed size is  7.2Mb
     sub-directories of 1Mb or more:
       data   7.1Mb
 
-  [The listed sub-directory contains the package's essential data objects]
+  [The listed sub-directory contains the package's essential data objects.]
