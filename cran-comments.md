@@ -12,8 +12,7 @@ required for prediction of energy expenditure in research studies.
 
 * Local Windows 10 install, R 4.2.2
 * win-builder (devel and release)
-* Ubuntu Linux 20.04.1 LTS, R-release, GCC (on R-hub)
-* Ubuntu Linux 20.04.1 LTS, R-devel, GCC (on R-hub)
+* Ubuntu Linux 24.04.3 LTS, R-devel (on R-hub)
 
 ## R CMD check results
 

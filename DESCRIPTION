@@ -1,6 +1,6 @@
 Package: EE.Data
 Type: Package
-Title: Objects for predicting energy expenditure
+Title: Objects for Predicting Energy Expenditure
 Version: 0.1.0
 Authors@R: person(
     c("Paul", "R."), "Hibbing", email = "paulhibbing@gmail.com",
