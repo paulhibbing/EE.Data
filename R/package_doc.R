@@ -9,4 +9,5 @@
 #'
 #' @docType package
 #' @name EE.Data
-NULL
+#' @keywords internal
+"_PACKAGE"

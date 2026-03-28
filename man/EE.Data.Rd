@@ -2,6 +2,7 @@
 % Please edit documentation in R/package_doc.R
 \docType{package}
 \name{EE.Data}
+\alias{EE.Data-package}
 \alias{EE.Data}
 \title{EE.Data: Objects for predicting energy expenditure}
 \description{
@@ -12,3 +13,15 @@ from wearable sensor data.
 \doi{10.1080/1091367X.2017.1337638}
   \doi{10.1152/japplphysiol.00026.2015}
 }
+\author{
+\strong{Maintainer}: Paul R. Hibbing \email{paulhibbing@gmail.com}
+
+Other contributors:
+\itemize{
+  \item Alexander H.K. Montoye \email{alexander.montoye@montcalm.edu} [contributor]
+  \item John Staudenmayer \email{jstauden@math.umass.edu} [contributor]
+  \item Children's Mercy Kansas City [copyright holder]
+}
+
+}
+\keyword{internal}
