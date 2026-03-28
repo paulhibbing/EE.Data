@@ -39,8 +39,13 @@ Maintainer: 'Paul R. Hibbing <paulhibbing@gmail.com>'
 
 New submission
 
-  [This is a new submission.]
-
+Possibly misspelled words in DESCRIPTION:
+  Montoye (13:28)
+  Staudenmayer (14:23)
+  al (13:39, 14:39)
+  et (13:36, 14:36)
+  
+  [This is a new (re)submission. The possibly-misspelled words are false positives.]
 
 * checking installed package size ... NOTE
     installed size is  7.2Mb
